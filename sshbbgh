@@ -1,0 +1,15 @@
+bit bucket : git@bitbucket.org:prahalve/crm-app.git
+github :     https://github.com/venkatesanprahalanathan/crm-app.git
+
+
+git remote add origin <REMOTE_REPO_URL>
+git remote add origin git@bitbucket.org:prahalve/crm-app.git
+
+git remote add bitbucket git@bitbucket.org:prahalve/crm-app.git
+
+git remote add github git@github.com:venkatesanprahalanathan/crm-app.git
+git remote add bitbucket git@bitbucket.org:prahalve/crm-app.git
+
+
+cat ~/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDR9lFbOT9fPK6xZNPK5guql2jKSviu5+ApELiNzJzULWpb5NtoEqEKjy3fIkrbqKDfmQ5IbXHu9BEHiMACwvDF/Ltqg26ekfXNk8lKBGWwFbqSLWcdF4rheMMvCjDE22D5yZibZr85dAKIkrUDaLA+46oCM9PaijVfq+rub98E4pQ3+k0rzweCEXu0HLrLOH+ygQEgULPahSZi9lIyQvG4CQpx3/wwoa+U4P6qoz0vpSSG6zuEGhyIlHlcFOZ32Y45DoSrFXuMjXZsRdYaU0SfI6DLpS+Eu+3Z0USoXZCPU6IA5KuV1OHbLp5WnsB+JZ64m4bN7JWZX9JaWMOGvDAr vagrant@sloopstash-ubuntu-desktop
